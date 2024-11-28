@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/editarPerfil"
+        android:title="Editar Perfil"/>
+
+    <item
+        android:id="@+id/agregarContacto"
+        android:title="Agregar Contacto"/>
+
+    <item
+        android:id="@+id/cambiarUsuario"
+        android:title="Cambiar de Usuario"/>
+</menu>
